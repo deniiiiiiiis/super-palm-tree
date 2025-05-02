@@ -1,0 +1,83 @@
+[16:14:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:14:34] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:14:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:14:34] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[16:14:34] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_442, running on Linux:amd64:6.8.0-1026-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[16:14:34] [main/INFO] [FML]: Searching /workspaces/super-palm-tree/servidor_minecraft/./mods for mods
+[16:14:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:14:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:14:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:14:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:14:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:14:35] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[16:14:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:14:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:14:36] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:14:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:14:36] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[16:14:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[16:14:38] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[16:14:38] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[16:14:38] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[16:14:39] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[16:14:39] [Server thread/INFO] [FML]: Config directory created successfully
+[16:14:39] [Server thread/INFO] [FML]: Searching /workspaces/super-palm-tree/servidor_minecraft/./mods for mods
+[16:14:39] [Server thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
+[16:14:39] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[16:14:39] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
+[16:14:39] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
+[16:14:40] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[16:14:40] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[16:14:40] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[16:14:40] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[16:14:40] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[16:14:40] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[16:14:40] [Server thread/INFO] [FML]: Applying holder lookups
+[16:14:40] [Server thread/INFO] [FML]: Holder lookups applied
+[16:14:40] [Server thread/INFO] [FML]: Applying holder lookups
+[16:14:40] [Server thread/INFO] [FML]: Holder lookups applied
+[16:14:40] [Server thread/INFO] [FML]: Applying holder lookups
+[16:14:40] [Server thread/INFO] [FML]: Holder lookups applied
+[16:14:40] [Server thread/INFO] [FML]: Applying holder lookups
+[16:14:40] [Server thread/INFO] [FML]: Holder lookups applied
+[16:14:40] [Server thread/INFO] [FML]: Injecting itemstacks
+[16:14:40] [Server thread/INFO] [FML]: Itemstack injection complete
+[16:14:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[16:14:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[16:14:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[16:14:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[16:14:40] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[16:14:40] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:14:40] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[16:14:40] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:14:40] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:14:40] [Server thread/INFO] [FML]: Applying holder lookups
+[16:14:40] [Server thread/INFO] [FML]: Holder lookups applied
+[16:14:40] [Server thread/INFO] [FML]: Injecting itemstacks
+[16:14:40] [Server thread/INFO] [FML]: Itemstack injection complete
+[16:14:40] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
+[16:14:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[16:14:40] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@63d0694f)
+[16:14:40] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[16:14:41] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[16:14:41] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@63d0694f)
+[16:14:41] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@63d0694f)
+[16:14:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[16:14:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 8%
+[16:14:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 16%
+[16:14:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 24%
+[16:14:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 40%
+[16:14:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 58%
+[16:14:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 72%
+[16:14:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 89%
+[16:14:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (8.734s)! For help, type "help" or "?"
+[16:14:49] [Server thread/INFO] [FML]: Unloading dimension -1
+[16:14:49] [Server thread/INFO] [FML]: Unloading dimension 1
+[16:23:15] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[16:23:15] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 62 mods : cyclopscore@1.6.7,mowziesmobs@1.5.8,renderlib@1.4.5,deconstruction@3.0.4,jei@4.16.1.301,hammertime@2.2.0,ivtoolkit@1.3.3-1.12,waystones@4.1.0,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,placebo@1.6.0,artifacts@1.12.2-1.2.4,evilcraft@0.10.78,surge@2.0.77,ironbackpacks@1.12.2-3.0.8-12,specialmobs@1.0.4_for_mc1.12.2,structuresplus@1.0.0,foamfixcore@7.7.4,llibrary@1.7.20,additionalstructures@2.5.0,waila@1.8.26,fpsreducer@mc1.12.2-1.20,jeresources@0.9.2.60,forge@14.23.5.2859,duneons@1.4,minecraft@1.12.2,baubles@1.5.2,forbidden_arcanus@1.12.2-1.1.4,reccomplex@1.4.8.6,horror_elements_mod@1.0.0,rustic@1.2.0,customspawner@3.11.4,ksyxis@1.3.3,spark@1.6.3,evilcraftcompat@1.0.0,cat@0.1,mocreatures@12.0.5,vanillafix@1.0.10-150,quark@r1.6-179,betterbiomeblend@1.12.2-1.1.7-forge,fastbench@1.7.4,autoreglib@1.3-32,multimob@1.0.5,entityculling@6.5.0,valoegheses_be@1.4.10-public-alpha,dawnoftimebuilder@1.0.7,FML@8.0.99.99,tombstone@4.7.5,mozombies_wave@0.1.5,fastfurnace@1.3.1,recipehandler@0.14,foamfix@@VERSION@,bibliotheca@1.3.6-1.12.2,illagers_plus@1.1,sturcturemod@0.1,particleculling@v1.4.3,fastleafdecay@v14,letmedespawn@1.0,cwsr@3.1.0.0,primitivemobs@1.2.3a
+[16:23:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Xx_denikz lost connection: Disconnected
+[16:23:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Xx_denikz left the game
+[16:23:34] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[16:23:34] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 62 mods : cyclopscore@1.6.7,mowziesmobs@1.5.8,renderlib@1.4.5,deconstruction@3.0.4,jei@4.16.1.301,hammertime@2.2.0,ivtoolkit@1.3.3-1.12,waystones@4.1.0,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,placebo@1.6.0,artifacts@1.12.2-1.2.4,evilcraft@0.10.78,surge@2.0.77,ironbackpacks@1.12.2-3.0.8-12,specialmobs@1.0.4_for_mc1.12.2,structuresplus@1.0.0,foamfixcore@7.7.4,llibrary@1.7.20,additionalstructures@2.5.0,waila@1.8.26,fpsreducer@mc1.12.2-1.20,jeresources@0.9.2.60,forge@14.23.5.2859,duneons@1.4,minecraft@1.12.2,baubles@1.5.2,forbidden_arcanus@1.12.2-1.1.4,reccomplex@1.4.8.6,horror_elements_mod@1.0.0,rustic@1.2.0,customspawner@3.11.4,ksyxis@1.3.3,spark@1.6.3,evilcraftcompat@1.0.0,cat@0.1,mocreatures@12.0.5,vanillafix@1.0.10-150,quark@r1.6-179,betterbiomeblend@1.12.2-1.1.7-forge,fastbench@1.7.4,autoreglib@1.3-32,multimob@1.0.5,entityculling@6.5.0,valoegheses_be@1.4.10-public-alpha,dawnoftimebuilder@1.0.7,FML@8.0.99.99,tombstone@4.7.5,mozombies_wave@0.1.5,fastfurnace@1.3.1,recipehandler@0.14,foamfix@@VERSION@,bibliotheca@1.3.6-1.12.2,illagers_plus@1.1,sturcturemod@0.1,particleculling@v1.4.3,fastleafdecay@v14,letmedespawn@1.0,cwsr@3.1.0.0,primitivemobs@1.2.3a
+[16:23:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Xx_denikz lost connection: Disconnected
+[16:23:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Xx_denikz left the game
