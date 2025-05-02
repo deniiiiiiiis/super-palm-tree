@@ -500,3 +500,49 @@
 [16:23:59] [Server thread/DEBUG] [FML]: The world 62185111 (world) may have leaked: seen 55 times.
 
 [16:24:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:24:49] [Server thread/DEBUG] [FML]: The world 3226d3e4 (world) may have leaked: seen 60 times.
+
+[16:24:49] [Server thread/DEBUG] [FML]: The world 62185111 (world) may have leaked: seen 60 times.
+
+[16:25:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:25:39] [Server thread/DEBUG] [FML]: The world 3226d3e4 (world) may have leaked: seen 65 times.
+
+[16:25:39] [Server thread/DEBUG] [FML]: The world 62185111 (world) may have leaked: seen 65 times.
+
+[16:26:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:26:29] [Server thread/DEBUG] [FML]: The world 3226d3e4 (world) may have leaked: seen 70 times.
+
+[16:26:29] [Server thread/DEBUG] [FML]: The world 62185111 (world) may have leaked: seen 70 times.
+
+[16:26:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:27:19] [Server thread/DEBUG] [FML]: The world 3226d3e4 (world) may have leaked: seen 75 times.
+
+[16:27:19] [Server thread/DEBUG] [FML]: The world 62185111 (world) may have leaked: seen 75 times.
+
+[16:27:26] [Server thread/TRACE] [FML]: Handshake channel activating
+[16:27:26] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[16:27:26] [Server thread/DEBUG] [FML]:   Next: HELLO
+[16:27:26] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[16:27:26] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[16:27:26] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:4 mods->FMLHandshakeServerState$2:HELLO
+[16:27:26] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2859,mcp@9.42
+[16:27:26] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[16:27:26] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[16:27:26] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[16:27:27] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[16:27:27] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[16:27:27] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[16:27:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:27:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Xx_denikz[/127.150.192.206:44783] logged in with entity id 2029 at (143.5, 64.0, 256.5)
+[16:27:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Xx_denikz joined the game
+[16:27:28] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[16:27:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:28:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:29:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:29:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:30:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:31:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:32:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:32:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:33:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:34:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
