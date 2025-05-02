@@ -86,3 +86,5 @@
 [16:27:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [16:27:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Xx_denikz[/127.150.192.206:44783] logged in with entity id 2029 at (143.5, 64.0, 256.5)
 [16:27:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Xx_denikz joined the game
+[16:41:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Xx_denikz lost connection: Timed out
+[16:41:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Xx_denikz left the game
