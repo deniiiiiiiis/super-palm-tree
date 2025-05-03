@@ -1,1 +1,20 @@
-{}
+{
+  "mod_lavacow:mod_lavacow/root": {
+    "criteria": {
+      "tick": "2025-05-03 14:16:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2025-05-03 14:16:33 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-05-03 14:16:33 +0000"
+    },
+    "done": true
+  }
+}

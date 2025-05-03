@@ -83,6 +83,13 @@ minecraft:villager
 minecraft:ender_crystal
 artifacts:mimic
 artifacts:hallow_star
+quark:seat
+quark:gravisand
+quark:flat_item_frame
+quark:leash_knot
+quark:colored_item_frame
+quark:glass_item_frame
+quark:chest_passenger
 quark:stoneling
 quark:archaeologist
 quark:foxhound
@@ -92,8 +99,6 @@ quark:frog
 quark:pirate
 quark:crab
 quark:wraith
-quark:seat
-quark:chest_passenger
 quark:pickarang
 quark:arrow_ender
 quark:arrow_explosive
@@ -101,11 +106,6 @@ quark:arrow_torch
 quark:dragon_breath_bottle
 quark:soul_powder
 quark:parrot_egg
-quark:flat_item_frame
-quark:leash_knot
-quark:colored_item_frame
-quark:glass_item_frame
-quark:gravisand
 clumps:xp_orb_big
 dawnoftimebuilder:silkmoth
 dawnoftimebuilder:japanese_dragon
