@@ -60,12 +60,8 @@
 				"minCount": 1,
 				"enchantments": [
 					{
-						"enchantment": "minecraft:frost_walker",
+						"enchantment": "minecraft:power",
 						"enchantmentLevel": 2
-					}, 
-					{
-						"enchantment": "minecraft:punch",
-						"enchantmentLevel": 1
 					}
 				],
 				"maxCount": 1
