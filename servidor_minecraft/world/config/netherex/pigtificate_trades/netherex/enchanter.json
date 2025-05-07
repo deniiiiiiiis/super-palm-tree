@@ -60,7 +60,7 @@
 				"minCount": 1,
 				"enchantments": [
 					{
-						"enchantment": "minecraft:power",
+						"enchantment": "minecraft:protection",
 						"enchantmentLevel": 2
 					}
 				],

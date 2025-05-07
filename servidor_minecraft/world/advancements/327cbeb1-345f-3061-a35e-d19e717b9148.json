@@ -1,213 +1,95 @@
 {
-  "minecraft:recipes/combat/wooden_sword": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "has_stick": "2025-05-07 15:59:49 +0000"
+      "has_bow": "2025-05-07 19:20:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_shovel": {
+  "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "has_cobblestone": "2025-05-07 16:01:31 +0000"
+      "has_log": "2025-05-07 19:18:39 +0000"
     },
     "done": true
   },
   "tombstone:tutorial/root": {
     "criteria": {
-      "auto": "2025-05-07 15:58:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2025-05-07 15:59:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2025-05-07 16:01:31 +0000"
+      "auto": "2025-05-07 19:14:37 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "entered_water": "2025-05-07 15:58:09 +0000"
+      "entered_water": "2025-05-07 19:17:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lever": {
+  "ancientbeasts:root": {
     "criteria": {
-      "has_cobblestone": "2025-05-07 16:01:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_red_flower": "2025-05-07 16:01:31 +0000"
-    },
-    "done": true
-  },
-  "cwsr:recipes/sword_handle": {
-    "criteria": {
-      "has_item": "2025-05-07 15:58:39 +0000"
-    },
-    "done": true
-  },
-  "mod_lavacow:mod_lavacow/root": {
-    "criteria": {
-      "tick": "2025-05-07 15:58:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2025-05-07 15:59:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-05-07 16:01:31 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:root": {
-    "criteria": {
-      "crafting_table": "2025-05-07 15:58:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2025-05-07 16:01:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2025-05-07 16:01:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2025-05-07 16:01:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "swampland": "2025-05-07 16:54:36 +0000",
-      "river": "2025-05-07 15:59:59 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2025-05-07 15:59:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2025-05-07 15:59:49 +0000"
-    },
-    "done": true
-  },
-  "rustic:main/root": {
-    "criteria": {
-      "consumed_item": "2025-05-07 16:00:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-05-07 16:00:21 +0000"
+      "tick": "2025-05-07 19:14:37 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "entered_water": "2025-05-07 15:58:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2025-05-07 16:01:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2025-05-07 16:01:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-05-07 16:02:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2025-05-07 15:59:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-05-07 15:59:49 +0000"
+      "entered_water": "2025-05-07 19:17:40 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "entered_water": "2025-05-07 15:58:09 +0000"
+      "entered_water": "2025-05-07 19:17:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/torch": {
+  "cwsr:recipes/sword_handle": {
     "criteria": {
-      "has_stone_pickaxe": "2025-05-07 16:02:09 +0000"
+      "has_item": "2025-05-07 19:15:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_pickaxe": {
+  "mod_lavacow:mod_lavacow/root": {
     "criteria": {
-      "has_cobblestone": "2025-05-07 16:01:31 +0000"
+      "tick": "2025-05-07 19:14:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_axe": {
+  "forbidden_arcanus:root": {
     "criteria": {
-      "has_cobblestone": "2025-05-07 16:01:31 +0000"
+      "crafting_table": "2025-05-07 19:15:35 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
-      "entered_water": "2025-05-07 15:58:09 +0000"
+      "entered_water": "2025-05-07 19:17:40 +0000"
     },
     "done": true
   },
   "mowziesmobs:root": {
     "criteria": {
-      "custom_test_name": "2025-05-07 15:58:10 +0000"
+      "custom_test_name": "2025-05-07 19:14:37 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "entered_water": "2025-05-07 15:58:09 +0000"
+      "entered_water": "2025-05-07 19:17:40 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "entered_water": "2025-05-07 15:58:09 +0000"
+      "entered_water": "2025-05-07 19:17:40 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2025-05-07 19:18:22 +0000",
+      "beaches": "2025-05-07 19:17:52 +0000",
+      "river": "2025-05-07 19:17:43 +0000",
+      "jungle": "2025-05-07 19:14:37 +0000"
+    },
+    "done": false
   }
 }
