@@ -3951,3 +3951,90 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [16:02:09] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest5 found
 [16:02:09] [Server thread/WARN] [FML]: Quark loaded a new chunk [-35, 11] in dimension 0 (overworld) while populating chunk [-34, 12], causing cascading worldgen lag.
 [16:02:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:02:31] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [-13, 22] in dimension 0 (overworld) while populating chunk [-13, 21], causing cascading worldgen lag.
+[16:02:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:02:31] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[16:02:31] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[16:02:31] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[16:02:31] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[16:02:31] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest5 found
+[16:02:32] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[16:02:32] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[16:02:32] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[16:02:32] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[16:02:32] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[16:02:32] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[16:02:32] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[16:02:32] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[16:02:32] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[16:02:32] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[16:02:32] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[16:02:32] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [4, 21] in dimension 0 (overworld) while populating chunk [3, 21], causing cascading worldgen lag.
+[16:02:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:02:33] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[16:02:33] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[16:02:33] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[16:02:33] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[16:02:33] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest5 found
+[16:02:33] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [3, 22] in dimension 0 (overworld) while populating chunk [3, 21], causing cascading worldgen lag.
+[16:02:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:02:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Xx_denikz lost connection: Disconnected
+[16:02:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Xx_denikz left the game
+[16:02:45] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@7c478287 as it does not exist in the list.
+[16:02:45] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@6c6ad096 as it does not exist in the list.
+[16:02:45] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntitySign@61332f4e as it does not exist in the list.
+[16:02:45] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntitySign@77185c3c as it does not exist in the list.
+[16:02:46] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@c4174e3 as it does not exist in the list.
+[16:02:46] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@763d698c as it does not exist in the list.
+[16:02:46] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntitySign@4ec87997 as it does not exist in the list.
+[16:02:46] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntitySign@7c86795f as it does not exist in the list.
+[16:02:52] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@20e340d9 as it does not exist in the list.
+[16:02:52] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntitySign@754acb7e as it does not exist in the list.
+[16:02:52] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@1e92331c as it does not exist in the list.
+[16:02:52] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@24e889e5 as it does not exist in the list.
+[16:02:52] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntitySign@6745e255 as it does not exist in the list.
+[16:02:52] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@37efd577 as it does not exist in the list.
+[16:02:52] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@a6f8866 as it does not exist in the list.
+[16:02:52] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@316137e as it does not exist in the list.
+[16:02:52] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntitySign@7185d2c3 as it does not exist in the list.
+[16:02:52] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntitySign@c84dcfa as it does not exist in the list.
+[16:02:52] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@1b982e9 as it does not exist in the list.
+[16:02:52] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@6aae8aeb as it does not exist in the list.
+[16:02:52] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntitySign@6616518d as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: EntitySkeleton['Skeleton'/5360, l='world', x=-252.50, y=12.90, z=-79.50] as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityZombie['Zombie'/5476, l='world', x=-252.50, y=12.70, z=-78.50] as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@1ce118a as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@5294bab1 as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@383c41e2 as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@62d70a71 as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@1207bdc2 as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@3187d771 as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntitySign@4c064e99 as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntitySign@56aea3cc as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntitySign@4a5e3e9f as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntitySign@79e04949 as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@44313e8 as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@424178fb as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@7815899a as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@ad15d50 as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@53e56741 as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@88eb42c as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@3c4dbf5b as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@744cd10d as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntitySign@5c8d748c as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntitySign@1895c92f as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@7ecc3189 as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@40750b35 as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@3f89a06c as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@2baaf946 as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@5c9cac9 as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@327b1059 as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@520cf7ca as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@1f4a285c as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@2b0d77e9 as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@78b743ba as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntitySign@238aff80 as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@7d2fe84d as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@7f0e74ec as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@29c78e5d as it does not exist in the list.
+[16:03:37] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@47b5f294 as it does not exist in the list.

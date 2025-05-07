@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-07 16:02:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-05-07 15:59:49 +0000"
@@ -152,6 +158,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-05-07 15:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-05-07 16:02:09 +0000"
     },
     "done": true
   },
